@@ -1,3 +1,3 @@
-# Kuzy15.github.io
+# Carlos Llames Arribas
 
 Repository for personal information page.
